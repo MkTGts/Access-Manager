@@ -9,7 +9,7 @@ from gui.description_dialog import DescriptionDialog
 class MainWindow(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Access Manager v1.0.0")
+        self.title("Access Manager v1.0.1")
         self.geometry("800x600")
         self.db = Database()
         
