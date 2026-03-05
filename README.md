@@ -1,4 +1,4 @@
-# Access Manager
+# Access Manager v1.0.1
 
 Локальный менеджер учетных данных на базе Python, Tkinter и SQLite.
 
